@@ -9,7 +9,7 @@ Designed to showcase your skills, projects, and experience with elegant animatio
 
 ## 🔗 Live Demo
 You can preview the portfolio locally by opening `index.html` in a modern browser.  
-Or access the online demo here: [Live Demo](https://dazzling-daffodil-0180fd.netlify.app/)
+Or access the online demo here: [Live Demo](https://cyber-atharv.github.io/portfolio-3/)
 
 ---
 
@@ -57,7 +57,7 @@ You can easily customize the project by:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Saboo24/portfolio-website.git
+git clone https://github.com/cyber-atharv/portfolio-3.git
 ```
 ### 2️⃣ Open the Folde
 ```bash
@@ -69,14 +69,9 @@ You’ll see your personal portfolio running locally
 
 ---
 
-## 📬 Contact
+## ?? Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](www.linkedin.com/in/mohamed-Atharv-hamzaoui-a2453a35b)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
-
+- Email: [atharvhogade12@gmail.com](mailto:atharvhogade12@gmail.com)
 ---
 
 Made with ❤️ by **Atharv**
